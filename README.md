@@ -33,4 +33,4 @@ Thanks to Ben Nadel for posting about how to [detect iOS full screen mode](http:
 
 Stay for certain absolute urls added by [Caleb R. Begly (techdude)](https://github.com/techdude)
 
-Licensed under the MIT License - See [MIT-License.txt](MIT-License.txt)
+Licensed under the MIT License - See [MIT-License.txt](MIT-license.txt)
